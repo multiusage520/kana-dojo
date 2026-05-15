@@ -212,5 +212,16 @@
     "difficulty": "medium",
     "answers": ["Spring", "Summer", "Autumn", "Winter"],
     "correctIndex": 2
-  }
+  },
+  {
+  "question": "Which Japanese city is famous for the Gion Matsuri festival?",
+  "difficulty": "medium",
+  "answers": [
+    "Kyoto",
+    "Nagoya",
+    "Hiroshima",
+    "Sendai"
+  ],
+  "correctIndex": 0
+}
 ]
